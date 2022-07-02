@@ -1,7 +1,7 @@
 ![I am masudranashawon](https://github.com/masudranashawon/masudranashawon/blob/main/banner.png)
 
 
-<h1 align="center">Hay 👋, I'm Masud Rana Shawon</h1>
+<h1 align="center">Hay <img src="https://c.tenor.com/yWSRmymbuBkAAAAS/waving-hi.gif" width="45">, I'm Masud Rana Shawon</h1>
 <h3 align="center">Frontend Designer</h3>
 
 ![Profile views](https://gpvc.arturio.dev/masudranashawon) 
@@ -49,3 +49,4 @@ Skills: HTML/ CSS/ JS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=masudranashawon&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=masudranashawon)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=masudranashawon)  
+[![Updated Badge](https://badges.pufler.dev/updated/masudranashawon/git-badges)](https://badges.pufler.dev)
