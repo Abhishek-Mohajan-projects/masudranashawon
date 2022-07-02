@@ -49,4 +49,3 @@ Skills: HTML/ CSS/ JS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=masudranashawon&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=masudranashawon)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=masudranashawon)  
-[![Updated Badge](https://badges.pufler.dev/updated/masudranashawon/git-badges)](https://badges.pufler.dev)
