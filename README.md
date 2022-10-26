@@ -1,8 +1,8 @@
 ![I am masudranashawon](https://github.com/masudranashawon/masudranashawon/blob/main/banner.png)
 
-
 <h1 align="center">Hay <img src="https://c.tenor.com/yWSRmymbuBkAAAAS/waving-hi.gif" width="45">, I'm Masud Rana Shawon</h1>
-<h3 align="center">Frontend Designer</h3>
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=0491B5&center=true&width=435&lines=Web+Designer+%7C+Front-end+Developer+%7C+Learner"></p>
 
 ![Profile views](https://gpvc.arturio.dev/masudranashawon) 
 
