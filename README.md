@@ -6,22 +6,22 @@
 
 ![Profile views](https://gpvc.arturio.dev/masudranashawon) 
 
-Welcome to my GitHub profile. I am a Web Designer and Trying to learn full-stack Development. 
-Knock me: m.facebook.com/masudranashawon786
+Welcome to my GitHub profile. I am a Web Designer and Trying to learn full-stack Development. <br>
+Ping me on: https://facebook.com/masudranashawon786
 
 <strong>SKILLS: </strong><br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) || ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) || ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) || ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) || ![BOOTSTRAP5](https://img.shields.io/badge/Bootstrap5-7010ef.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  || ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) || ![REACT](https://img.shields.io/badge/React-00ccff.svg?style=for-the-badge&logo=react&logoColor=white)
  
 
 - 🔭 I’m currently working on [Web Grounder Team](https://www.facebook.com/groups/webgrounder)
 
-- 🌱 I’m currently learning **HTML, CSS, Bootstrap, JavaScript, jQuery, PHP**
+- 🌱 I’m currently learning **HTML, CSS, Bootstrap, JavaScript, ES6, React, PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/masudranashawon](https://github.com/masudranashawon)
 
 - 📝 I regularly write articles on [https://www.masudranashawon.ml/](https://www.masudranashawon.ml/)
 
-- 💬 Ask me about **HTML5, CSS3, ES6**
+- 💬 Ask me about **HTML5, CSS3, Bootstrap5, Javascrtipt, ES6, OOP, React**
 
 - 📫 How to reach me **mohammadmasudrana3396@gmail.com**
 
