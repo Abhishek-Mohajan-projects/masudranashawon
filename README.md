@@ -5,6 +5,9 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=0491B5&center=true&width=435&lines=Web+Designer+%7C+Front-end+Developer+%7C+Learner"></p>
 
 ![Profile views](https://gpvc.arturio.dev/masudranashawon) 
+<a href="https://twitter.com/MasudRanaShawo1">
+   <img height="20" src="https://img.shields.io/twitter/follow/MasudRanaShawo1?label=Twitter&logo=twitter&style=flat" />
+ </a>
 
 Welcome to my GitHub profile. I am a Web Designer and Trying to learn full-stack Development. <br>
 Ping me on: https://facebook.com/masudranashawon786
@@ -45,8 +48,14 @@ Ping me on: https://facebook.com/masudranashawon786
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masudranashawon)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=masudranashawon&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=masudranashawon&show_icons=true)
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=masudranashawon)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=masudranashawon)  
+
+![GitHub trofy vercel](https://github-profile-trophy.vercel.app/?username=masudranashawon)
+
+![GitHub summary card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masudranashawon&theme=vue)
